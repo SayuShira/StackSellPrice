@@ -1,9 +1,10 @@
 {
-  "Name": "StackSellPrice",
+	"Name": "StackSellPrice",
 	"InternalName": "StackSellPrice",
-  "Author": "VariableVixen",
-  "Description": "Shows the vendor sell price for the full stack of an item on the tooltip",
-  "RepoUrl": "https://github.com/PrincessRTFM/StackSellPrice",
-  "Punchline": "Because multiplication is hard.",
-  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/StackSellPrice/images/icon.png"
+	"Author": "VariableVixen",
+	"Description": "Shows the vendor sell price for the full stack of an item on the tooltip",
+	"RepoUrl": "https://github.com/PrincessRTFM/StackSellPrice",
+	"Punchline": "Because multiplication is hard.",
+	"Changelog": "7.1/API 11 (Including switch to AddonLifeCycles for tooltip manipulation)",
+	"IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/StackSellPrice/images/icon.png"
 }
