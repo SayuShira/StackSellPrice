@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
+	<Import Project="dalamud.props" />
 	<PropertyGroup>
 		<Product>StackSellPrice</Product>
 		<Version>4.3.0</Version>
 		<Description>Shows the vendor sell price for the full stack of an item on the tooltip</Description>
 		<Copyright>Copyleft VariableVixen 2022</Copyright>
 	</PropertyGroup>
-
-	<Import Project="dalamud.props" />
-
-	<ItemGroup>
-		<PackageReference Include="XivCommon" Version="9.0.0" />
-	</ItemGroup>
 
 </Project>

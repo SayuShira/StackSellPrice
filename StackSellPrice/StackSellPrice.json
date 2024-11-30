@@ -1,5 +1,6 @@
 {
   "Name": "StackSellPrice",
+	"InternalName": "StackSellPrice",
   "Author": "VariableVixen",
   "Description": "Shows the vendor sell price for the full stack of an item on the tooltip",
   "RepoUrl": "https://github.com/PrincessRTFM/StackSellPrice",

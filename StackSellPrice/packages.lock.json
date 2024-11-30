@@ -1,19 +1,13 @@
 {
-	"version": 1,
-	"dependencies": {
-		"net8.0-windows7.0": {
-			"DalamudPackager": {
-				"type": "Direct",
-				"requested": "[2.1.12, )",
-				"resolved": "2.1.12",
-				"contentHash": "Sc0PVxvgg4NQjcI8n10/VfUQBAS4O+Fw2pZrAqBdRMbthYGeogzu5+xmIGCGmsEZ/ukMOBuAqiNiB5qA3MRalg=="
-			},
-			"XivCommon": {
-				"type": "Direct",
-				"requested": "[9.0.0, )",
-				"resolved": "9.0.0",
-				"contentHash": "avaBp3FmSCi/PiQhntCeBDYOHejdyTWmFtz4pRBVQQ8vHkmRx+YTk1la9dkYBMlXxRXKckEdH1iI1Fu61JlE7w=="
-			}
-		}
-	}
+  "version": 1,
+  "dependencies": {
+    "net8.0-windows7.0": {
+      "DalamudPackager": {
+        "type": "Direct",
+        "requested": "[11.0.0, )",
+        "resolved": "11.0.0",
+        "contentHash": "bjT7XUlhIJSmsE/O76b7weUX+evvGQctbQB8aKXt94o+oPWxHpCepxAGMs7Thow3AzCyqWs7cOpp9/2wcgRRQA=="
+      }
+    }
+  }
 }
