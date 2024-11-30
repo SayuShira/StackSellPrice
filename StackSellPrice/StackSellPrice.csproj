@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project Sdk="Microsoft.NET.Sdk">
-	<Import Project="dalamud.props" />
+<Project Sdk="Dalamud.NET.Sdk/11.0.0">
 	<PropertyGroup>
 		<Product>StackSellPrice</Product>
 		<Version>4.3.0</Version>
 		<Description>Shows the vendor sell price for the full stack of an item on the tooltip</Description>
 		<Copyright>Copyleft VariableVixen 2022</Copyright>
 	</PropertyGroup>
-
 </Project>
